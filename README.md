@@ -13,17 +13,11 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="180" alt="GitHub stats" />
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/msokhi99/count.svg?"  />
-</div>
-
-###
+<!-- Visitor Counter -->
+<img src="https://profile-counter.glitch.me/msokhi99/count.svg" alt="Profile views" />
 
 <div align="center">
   <a href="https://www.instagram.com/msokhii/?hl=en" target="_blank">
