@@ -32,7 +32,6 @@
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
 <p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
   <a href="https://www.instagram.com/msokhii/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram" />
   </a>
   <a href="mailto:msokhi99@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
@@ -55,11 +54,6 @@
     <img alt="github-snake"
          src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
-</p>
-
-<!-- ===== Responsive Note ===== -->
-<p align="center" style="font-size:0.8em;">
-  Cards are 150&nbsp;px wide — they stay side-by-side even on 320&nbsp;px screens.
 </p>
 
 
