@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="https://tenor.com/bjjiD.gif"  />
+  <div class="tenor-gif-embed" data-postid="16956409" data-share-method="host" data-aspect-ratio="1.25" data-width="100%"><a href="https://tenor.com/view/goku-songoku-laughing-haha-saiyan-gif-16956409">Goku Songoku GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 <!-- ====== Social Links ====== -->
