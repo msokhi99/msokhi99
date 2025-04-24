@@ -15,7 +15,7 @@
   <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500"
        style="width:160px;height:auto;" alt="LeetCode stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
-       style="width:380px;height:auto;" alt="GitHub stats" />
+       style="width:200px;height:auto;" alt="GitHub stats" />
 </div>
 
 ###
