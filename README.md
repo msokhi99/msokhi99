@@ -21,7 +21,7 @@
        style="width:150px;height:auto;" alt="LeetCode stats" />
   <img
     src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
-    style="width:180px;height:auto;" alt="Spotify recently played" />
+    style="width:160px;height:auto;" alt="Spotify recently played" />
 </div>
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
