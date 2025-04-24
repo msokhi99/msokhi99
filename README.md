@@ -26,7 +26,7 @@
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
 <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-       style="width:150px;height:auto;" alt="GitHub stats" />
+       style="width:180px;height:auto;" alt="GitHub stats" />
 </div>
 
 <div align="center">
