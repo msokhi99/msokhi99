@@ -14,9 +14,11 @@
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
   <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500"
        style="width:160px;height:auto;" alt="LeetCode stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
        style="width:380px;height:auto;" alt="GitHub stats" />
 </div>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/msokhi99/count.svg?"  />
