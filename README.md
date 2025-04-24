@@ -6,24 +6,30 @@
 <!-- ====== Tech Stack ====== -->
 <h3 align="center">Tech&nbsp;Stack</h3>
 <p align="center">
-  <!-- icons … (unchanged) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"      height="48" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
 </p>
 
-<!-- ====== Two-column row:  (GitHub + LC) | Spotify ====== -->
+<!-- ====== One Row: GitHub • LeetCode • Spotify ====== -->
 <div align="center"
-     style="display:flex;justify-content:center;align-items:flex-start;gap:24px;margin:32px 0;flex-wrap:nowrap;">
+     style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
 
-  <!-- Column 1: GitHub on top, LeetCode underneath -->
-  <div style="display:flex;flex-direction:column;align-items:center;gap:12px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-         style="width:160px;height:auto;" alt="GitHub stats" />
-    <img src="https://leetcard.jacoblin.cool/msokhi99"
-         style="width:160px;height:auto;" alt="LeetCode stats" />
-  </div>
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
+       style="width:140px;height:auto;" alt="GitHub stats" />
 
-  <!-- Column 2: Spotify widget (takes up the same visual height) -->
+  <!-- LeetCode card -->
+  <img src="https://leetcard.jacoblin.cool/msokhi99"
+       style="width:140px;height:auto;" alt="LeetCode stats" />
+
+  <!-- Wider Spotify recently-played widget -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
-       style="width:300px;height:auto;" alt="Spotify recently played" />
+       style="width:280px;height:auto;" alt="Spotify recently played" />
 </div>
 
 <!-- ====== Social Links ====== -->
