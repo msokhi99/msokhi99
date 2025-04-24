@@ -18,15 +18,15 @@
 <!-- ====== Stats & LeetCode Row ====== -->
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-       style="width:150px;height:130px;" alt="GitHub stats" />
+       style="width:150px;height:auto;" alt="GitHub stats" />
   <img src="https://leetcard.jacoblin.cool/msokhi99"
-       style="width:150px;height:130px;" alt="LeetCode stats" />
+       style="width:150px;height:auto;" alt="LeetCode stats" />
 </div>
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
 <img
     src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
-    style="width:150px;height:auto;" alt="Spotify recently played" />
+    style="width:180px;height:auto;" alt="Spotify recently played" />
 </div>
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
