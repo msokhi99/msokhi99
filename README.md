@@ -28,6 +28,11 @@
     src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
     style="width:180px;height:auto;" alt="Spotify recently played" />
 </div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=msokhi99.msokhi99&"  />
+</div>
+
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
 <p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
