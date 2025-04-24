@@ -1,31 +1,45 @@
-<!-- ====== Tech Stack ====== -->
-<h3 align="center">Tech&nbsp;Stack</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-</p>
-
-<!-- ====== Stats & LeetCode Row ====== -->
-<div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
-  <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500"
-       style="width:160px;height:auto;" alt="LeetCode stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
-       style="width:260px;height:auto;" alt="GitHub stats" />
-</div>
-
-###
-
+<!-- ====== Goku + Main Column Wrapper ====== -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/msokhi99/count.svg?"  />
-</div>
+  <div style="display:flex;justify-content:center;align-items:flex-start;flex-wrap:wrap;gap:24px;">
+    
+    <!-- ——— Left column :  Goku GIF ——— -->
+    <div>
+      <!-- Feel free to tweak width/height as you like -->
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEwZGZsNm5tOWQwbzd6d29zYW8ydWFxbmR1NHJ0cTB6cmtoaTRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUIb94IVB7pIBRoF0A/giphy.gif"
+           alt="Goku powering up"
+           width="260" height="300" />
+    </div>
 
-<div align="center">
-   <img height="300" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEwZGZsNm5tOWQwbzd6d29zYW8ydWFxbmR1NHJ0cTB6cmtoaTRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUIb94IVB7pIBRoF0A/giphy.gif"  />
+    <!-- ——— Right column : Everything else ——— -->
+    <div>
+
+      <!-- ====== Tech Stack ====== -->
+      <h3 align="center">Tech&nbsp;Stack</h3>
+      <p align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
+      </p>
+
+      <!-- ====== Stats & LeetCode Row ====== -->
+      <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
+        <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500"
+             style="width:160px;height:auto;" alt="LeetCode stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
+             style="width:260px;height:auto;" alt="GitHub stats" />
+      </div>
+
+      <!-- ====== Viewer Counter ====== -->
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/msokhi99/count.svg?" />
+      </div>
+
+    </div>
+  </div>
 </div>
 
 <!-- ====== Social Links ====== -->
