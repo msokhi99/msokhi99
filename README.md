@@ -18,7 +18,7 @@
 <!-- ====== Stats & LeetCode Row ====== -->
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
   <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity"
-       style="width:150px;height:auto;" alt="LeetCode stats" />
+       style="width:150px;height:200px;" alt="LeetCode stats" />
   <img
     src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
     style="width:180px;height:auto;" alt="Spotify recently played" />
