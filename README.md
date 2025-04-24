@@ -1,21 +1,16 @@
-<!-- ====== Goku + Main Column Wrapper ====== -->
-<div align="center">
-  <div style="display:flex;justify-content:center;align-items:flex-start;flex-wrap:wrap;gap:24px;">
-    
-    <!-- ——— Left column :  Goku GIF ——— -->
-    <div>
-      <!-- Feel free to tweak width/height as you like -->
+<!-- ====== Two-column layout: Goku | Main Content (no visible borders) ====== -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- ——— Left column : Goku GIF ——— -->
+    <td align="center" valign="top" style="padding-right:16px;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEwZGZsNm5tOWQwbzd6d29zYW8ydWFxbmR1NHJ0cTB6cmtoaTRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUIb94IVB7pIBRoF0A/giphy.gif"
-           alt="Goku powering up"
-           width="260" height="300" />
-    </div>
-
-    <!-- ——— Right column : Everything else ——— -->
-    <div>
-
+           alt="Goku powering up" width="300" height="360">
+    </td>
+    <!-- ——— Right column : Tech Stack → viewer counter ——— -->
+    <td align="center" valign="top">
       <!-- ====== Tech Stack ====== -->
-      <h3 align="center">Tech&nbsp;Stack</h3>
-      <p align="center">
+      <h3>Tech&nbsp;Stack</h3>
+      <p>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
@@ -24,38 +19,35 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
       </p>
-
-      <!-- ====== Stats & LeetCode Row ====== -->
-      <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
+      <!-- ====== Stats & LeetCode Row (just two inline images) ====== -->
+      <p>
         <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500"
-             style="width:160px;height:auto;" alt="LeetCode stats" />
+             alt="LeetCode stats" width="160">
         <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
-             style="width:260px;height:auto;" alt="GitHub stats" />
-      </div>
-
+             alt="GitHub stats" width="260">
+      </p>
       <!-- ====== Viewer Counter ====== -->
-      <div align="center">
-        <img src="https://profile-counter.glitch.me/msokhi99/count.svg?" />
-      </div>
-
-    </div>
-  </div>
-</div>
+      <p>
+        <img src="https://profile-counter.glitch.me/msokhi99/count.svg?" alt="Profile views">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
-<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
+<p align="center">
   <a href="https://www.instagram.com/msokhii/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram">
   </a>
   <a href="mailto:msokhi99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/msokhii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn">
   </a>
   <a href="https://www.hackerrank.com/profile/sokhimantej99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="32" alt="HackerRank" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="32" alt="HackerRank">
   </a>
 </p>
 
@@ -63,10 +55,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
     <img alt="github-snake"
-         src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+         src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
   </picture>
 </p>
+
+
