@@ -51,9 +51,6 @@
   </picture>
 </p>
 
-<!-- ===== Responsive Note ===== -->
-<p align="center" style="font-size:0.8em;">
-  Cards are 140&nbsp;px wide — they stay side-by-side even on ~320&nbsp;px screens.
-</p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe)
 
 
