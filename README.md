@@ -15,21 +15,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
 </p>
 
-<!-- ====== One Row: GitHub • LeetCode • Spotify ====== -->
 <div align="center"
-     style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
+     style="display:flex;justify-content:center;align-items:flex-start;gap:24px;margin:32px 0;flex-wrap:nowrap;">
 
-  <!-- GitHub stats -->
+  <!-- GitHub-stats card -->
   <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-       style="width:140px;height:auto;" alt="GitHub stats" />
+       style="width:200px;height:auto;" alt="GitHub stats" />
 
   <!-- LeetCode card -->
   <img src="https://leetcard.jacoblin.cool/msokhi99"
-       style="width:140px;height:auto;" alt="LeetCode stats" />
+       style="width:200px;height:auto;" alt="LeetCode stats" />
 
-  <!-- Wider Spotify recently-played widget -->
+  <!-- Spotify widget (tall, spans height of the two cards) -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
-       style="width:280px;height:auto;" alt="Spotify recently played" />
+       style="width:300px;height:auto;" alt="Spotify recently played" />
 </div>
 
 <!-- ====== Social Links ====== -->
