@@ -3,7 +3,7 @@
   <tr>
     <!-- ——— Left column : Goku GIF ——— -->
     <td align="center" valign="top" style="padding-right:16px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEwZGZsNm5tOWQwbzd6d29zYW8ydWFxbmR1NHJ0cTB6cmtoaTRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUIb94IVB7pIBRoF0A/giphy.gif"
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl3bHYyMXVteTdzZjZpMzE3aWJmMGx6cmdwY2gzNHdjZ3hzcHFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif"
            alt="Goku powering up" width="340" height="360">
     </td>
     <!-- ——— Right column : Tech Stack → viewer counter ——— -->
