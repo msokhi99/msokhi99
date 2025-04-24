@@ -1,3 +1,8 @@
+<!-- =============================
+     Mantej Sokhi – README (v6)
+     Layout: tech top • stats+LC side-by-side • socials • snake
+     ============================= -->
+
 <!-- ====== Tech Stack ====== -->
 <h3 align="center">Tech&nbsp;Stack</h3>
 <p align="center">
@@ -11,37 +16,44 @@
 </p>
 
 <!-- ====== Stats & LeetCode Row ====== -->
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:30px;margin:32px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="180" alt="GitHub stats" />
-  <img src="https://leetcard.jacoblin.cool/msokhi99" alt="LeetCode stats" height="180" />
+<div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:10px;margin:24px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
+       style="width:140px;height:auto;" alt="GitHub stats" />
+  <img src="https://leetcard.jacoblin.cool/msokhi99" style="width:140px;height:auto;" alt="LeetCode stats" />
 </div>
 
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
-<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
+<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:14px;">
   <a href="https://www.instagram.com/msokhii/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="Instagram" />
   </a>
   <a href="mailto:msokhi99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/msokhii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/sokhimantej99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="30" alt="HackerRank" />
   </a>
 </p>
 
 <!-- ====== Snake Animation ====== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake"
+         src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
 
 <!-- ===== Responsive Note ===== -->
-<p align="center" style="font-size:0.85em;">Stats row stacks vertically on narrow screens.</p>
+<p align="center" style="font-size:0.8em;">
+  Cards are 140&nbsp;px wide — they stay side-by-side even on ~320&nbsp;px screens.
+</p>
+
 
