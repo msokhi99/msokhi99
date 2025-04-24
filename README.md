@@ -24,6 +24,10 @@
   <img src="https://profile-counter.glitch.me/msokhi99/count.svg?"  />
 </div>
 
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYyZHY2NXQzeWp1dXF4ZDdqenU0azgwdXYybDRxbDB6NjJud2pkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vP6xnkkOrlGW4TmRR/giphy.gif"  />
+</div>
+
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
 <p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
