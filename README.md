@@ -17,16 +17,16 @@
 
 <!-- ====== Stats & LeetCode Row ====== -->
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-       style="width:150px;height:auto;" alt="GitHub stats" />
   <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity"
        style="width:150px;height:auto;" alt="LeetCode stats" />
+  <img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
+    style="width:180px;height:auto;" alt="Spotify recently played" />
 </div>
 
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
-<img
-    src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
-    style="width:180px;height:auto;" alt="Spotify recently played" />
+<img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
+       style="width:150px;height:auto;" alt="GitHub stats" />
 </div>
 
 <div align="center">
