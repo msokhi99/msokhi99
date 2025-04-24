@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <img height="200" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXYyZHY2NXQzeWp1dXF4ZDdqenU0azgwdXYybDRxbDB6NjJud2pkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7vP6xnkkOrlGW4TmRR/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F1106548570941451912%2F&psig=AOvVaw3n0cUZUhTtuJ5IWTsGDjAA&ust=1745569021991000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCmnMCd8IwDFQAAAAAdAAAAABAZ)"  />
+  <img height="200" src="https://tenor.com/bjjiD.gif"  />
 </div>
 
 <!-- ====== Social Links ====== -->
