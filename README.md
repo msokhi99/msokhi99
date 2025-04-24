@@ -25,7 +25,7 @@
 </div>
 
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="16956409" data-share-method="host" data-aspect-ratio="1.25" data-width="100%"><a href="https://tenor.com/view/goku-songoku-laughing-haha-saiyan-gif-16956409">Goku Songoku GIF</a>from <a href="https://tenor.com/search/goku-gifs">Goku GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWEwZGZsNm5tOWQwbzd6d29zYW8ydWFxbmR1NHJ0cTB6cmtoaTRqbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eUIb94IVB7pIBRoF0A/giphy.gif"  />
 </div>
 
 <!-- ====== Social Links ====== -->
