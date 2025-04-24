@@ -23,6 +23,11 @@
        style="width:150px;height:auto;" alt="LeetCode stats" />
 </div>
 
+<div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:12px;margin:24px 0;">
+<img
+    src="https://spotify-recently-played-readme.vercel.app/api?user=31lxdqlyz3rvv5wbrhdebms7kefe"
+    style="width:150px;height:auto;" alt="Spotify recently played" />
+</div>
 <!-- ====== Social Links ====== -->
 <h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
 <p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
