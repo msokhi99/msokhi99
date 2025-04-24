@@ -1,8 +1,3 @@
-<!-- =============================
-     Mantej Sokhi – README (v4)
-     Layout: tech • stats+LC • socials • snake
-     ============================= -->
-
 <!-- ====== Tech Stack ====== -->
 <h3 align="center">Tech&nbsp;Stack</h3>
 <p align="center">
@@ -16,7 +11,7 @@
 </p>
 
 <!-- ====== Stats & LeetCode Row ====== -->
-<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:40px;margin:32px 0;">
+<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:30px;margin:32px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="180" alt="GitHub stats" />
   <img src="https://leetcard.jacoblin.cool/msokhi99" alt="LeetCode stats" height="180" />
 </div>
