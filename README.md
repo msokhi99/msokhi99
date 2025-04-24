@@ -1,5 +1,11 @@
-<!-- Tech Stack Icons -->
-<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:24px;">
+<!-- =============================
+     Mantej Sokhi – README (v4)
+     Layout: tech • stats+LC • socials • snake
+     ============================= -->
+
+<!-- ====== Tech Stack ====== -->
+<h3 align="center">Tech&nbsp;Stack</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="48" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
@@ -7,40 +13,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
+</p>
+
+<!-- ====== Stats & LeetCode Row ====== -->
+<div align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:40px;margin:32px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="180" alt="GitHub stats" />
+  <img src="https://leetcard.jacoblin.cool/msokhi99" alt="LeetCode stats" height="180" />
 </div>
 
-###
-
-<br clear="both">
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" height="180" alt="GitHub stats" />
-
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/msokhi99/count.svg" alt="Profile views" />
-
-<!-- Social Badges -->
-<div style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
+<!-- ====== Social Links ====== -->
+<h3 align="center">Connect&nbsp;with&nbsp;Me</h3>
+<p align="center" style="display:flex;justify-content:center;flex-wrap:wrap;gap:16px;">
   <a href="https://www.instagram.com/msokhii/?hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
   <a href="mailto:msokhi99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/msokhii" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/sokhimantej99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
   </a>
-</div>
+</p>
 
-<!-- LeetCode Card -->
-<img src="https://leetcard.jacoblin.cool/msokhi99" alt="LeetCode stats" />
+<!-- ====== Snake Animation ====== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
 
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- ===== Responsive Note ===== -->
+<p align="center" style="font-size:0.85em;">Stats row stacks vertically on narrow screens.</p>
+
