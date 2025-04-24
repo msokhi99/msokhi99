@@ -18,8 +18,8 @@
 <!-- ====== Stats & LeetCode Row ====== -->
 <div align="center" style="display:flex;justify-content:center;flex-wrap:nowrap;gap:10px;margin:24px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true"
-       style="width:140px;height:auto;" alt="GitHub stats" />
-  <img src="https://leetcard.jacoblin.cool/msokhi99" style="width:140px;height:auto;" alt="LeetCode stats" />
+       style="width:150px;height:auto;" alt="GitHub stats" />
+  <img src="https://leetcard.jacoblin.cool/msokhi99" style="width:150px;height:auto;" alt="LeetCode stats" />
 </div>
 
 <!-- ====== Social Links ====== -->
