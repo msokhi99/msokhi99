@@ -1,8 +1,3 @@
-<!-- =============================
-     Mantej Sokhi – README (v7)
-     Layout: tech • stats+LC side-by-side • socials • snake
-     ============================= -->
-
 <!-- ====== Tech Stack ====== -->
 <h3 align="center">Tech&nbsp;Stack</h3>
 <p align="center">
@@ -61,5 +56,3 @@
          src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
-
-
