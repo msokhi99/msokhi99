@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=msokhi99.msokhi99&"  />
+  <img src="https://profile-counter.glitch.me/msokhi99/count.svg?"  />
 </div>
 
 <!-- ====== Social Links ====== -->
