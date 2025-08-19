@@ -1,11 +1,6 @@
 <!-- ====== Two-column layout: Goku | Main Content (no visible borders) ====== -->
 <table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
     <!-- ——— Left column : Goku GIF ——— -->
-    <td align="center" valign="top" style="padding-right:16px;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzl3bHYyMXVteTdzZjZpMzE3aWJmMGx6cmdwY2gzNHdjZ3hzcHFzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif"
-           alt="Goku powering up" width="310" height="360">
-    </td>
     <!-- ——— Right column : Tech Stack → viewer counter ——— -->
     <td align="center" valign="top">
       <!-- ====== Tech Stack ====== -->
@@ -20,16 +15,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
       </p>
       <!-- ====== Stats & LeetCode Row (just two inline images) ====== -->
-      <p>
-        <img src="https://leetcard.jacoblin.cool/msokhi99?ext=activity&height=500&theme=nord&font=cascadia_mono"
-             alt="LeetCode stats" width="160">
-        <img src="https://github-readme-stats.vercel.app/api?username=msokhi99&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&order=1"
-             alt="GitHub stats" width="260">
-      </p>
-      <!-- ====== Viewer Counter ====== -->
-      <p>
-        <img src="https://profile-counter.glitch.me/msokhi99/count.svg?" alt="Profile views">
-      </p>
+      <!-- ====== Viewer Counter ====== --
     </td>
   </tr>
 </table>
